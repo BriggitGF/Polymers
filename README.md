@@ -139,7 +139,8 @@ Esta tabla proporciona un resumen de varios polímeros, sus monómeros, las sigl
 
 1. **Factores que favorecen la cristalinidad en polímeros:**
   La cristalinidad en los polímeros es un factor crucial que afecta sus propiedades físicas y químicas. Varios factores influyen en el grado de cristalinidad de un polímero, incluyendo la tacticidad, la polaridad molecular, la configuración, la presencia de plastificantes, las ramificaciones y el peso molecular. Aquí se explica detalladamente cómo cada uno de estos factores afecta la cristalinidad:
-  
+
+
   1. **Tacticidad:**
      - La tacticidad se refiere a la disposición espacial regular de los grupos laterales en la cadena principal del polímero.
      - Los polímeros isotácticos, donde los grupos laterales están alineados uniformemente en un lado de la cadena polimérica, tienden a ser más cristalinos debido a su estructura regular que facilita un empaquetamiento ordenado.
