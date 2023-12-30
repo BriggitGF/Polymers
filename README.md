@@ -138,12 +138,36 @@ Esta tabla proporciona un resumen de varios polímeros, sus monómeros, las sigl
 ### Solución <!-- omit in toc -->
 
 1. **Factores que favorecen la cristalinidad en polímeros:**
-   La cristalinidad en polímeros es favorecida por varios factores estructurales y de procesamiento:
-   - **Regularidad y simetría de la cadena molecular:** Polímeros con estructuras regulares y simétricas tienden a empaquetarse de manera más ordenada, facilitando la cristalización.
-   - **Ausencia de ramificaciones o ramificaciones cortas:** Las cadenas lineales o con pocas ramificaciones permiten un mejor empaquetamiento y, por lo tanto, una mayor cristalinidad.
-   - **Peso molecular:** Un peso molecular uniforme y moderado puede promover la cristalinidad, ya que las cadenas demasiado largas o con una amplia distribución de peso molecular pueden entorpecer el empaquetamiento regular.
-   - **Tasa de enfriamiento:** Un enfriamiento lento durante la solidificación puede favorecer el ordenamiento molecular y la formación de cristales.
-   - **Orientación durante el procesamiento:** La orientación aplicada durante procesos como el estiramiento o el soplado puede inducir cristalinidad en ciertas regiones de los polímeros.
+  La cristalinidad en los polímeros es un factor crucial que afecta sus propiedades físicas y químicas. Varios factores influyen en el grado de cristalinidad de un polímero, incluyendo la tacticidad, la polaridad molecular, la configuración, la presencia de plastificantes, las ramificaciones y el peso molecular. Aquí se explica detalladamente cómo cada uno de estos factores afecta la cristalinidad:
+  
+  1. **Tacticidad:**
+     - La tacticidad se refiere a la disposición espacial regular de los grupos laterales en la cadena principal del polímero.
+     - Los polímeros isotácticos, donde los grupos laterales están alineados uniformemente en un lado de la cadena polimérica, tienden a ser más cristalinos debido a su estructura regular que facilita un empaquetamiento ordenado.
+     - Los polímeros sindiotácticos, con una disposición alternada de los grupos laterales, también pueden ser bastante cristalinos.
+     - Los polímeros atácticos, con una disposición aleatoria de grupos laterales, suelen ser amorfos debido a su estructura irregular que impide el empaquetamiento ordenado.
+  
+  2. **Polaridad Molecular:**
+     - La polaridad de un polímero afecta las interacciones intermoleculares. Los polímeros con unidades monoméricas más polares suelen tener fuerzas intermoleculares más fuertes, lo que puede favorecer la cristalización.
+     - Sin embargo, una alta polaridad también puede resultar en un aumento de la rigidez y disminuir la movilidad de la cadena, lo que puede complicar el proceso de cristalización.
+  
+  3. **Configuración:**
+     - La configuración se refiere a la disposición geométrica de los átomos en una cadena polimérica. Por ejemplo, la configuración cis/trans en polímeros como el polibutadieno afecta su cristalinidad.
+     - Las configuraciones que permiten un empaquetamiento más regular y denso de las cadenas favorecen la cristalización.
+  
+  4. **Plastificantes:**
+     - Los plastificantes son aditivos que se añaden a los polímeros para mejorar su flexibilidad y procesabilidad.
+     - Generalmente, los plastificantes reducen la cristalinidad al incrementar la distancia entre las cadenas poliméricas y disminuir las interacciones intermoleculares. Esto aumenta la movilidad de la cadena y disminuye el empaquetamiento ordenado.
+  
+  5. **Ramificaciones:**
+     - Las ramificaciones en las cadenas poliméricas pueden obstaculizar el empaquetamiento ordenado necesario para la formación de estructuras cristalinas.
+     - Los polímeros lineales, sin ramificaciones o con ramificaciones cortas, suelen tener un grado de cristalinidad más alto en comparación con los polímeros altamente ramificados.
+  
+  6. **Peso Molecular:**
+     - El peso molecular y su distribución pueden influir en la cristalinidad. 
+     - Los polímeros de alto peso molecular pueden tener regiones más extensas de empaquetamiento ordenado, lo que favorece la cristalinidad. Sin embargo, un peso molecular extremadamente alto puede resultar en una disminución de la movilidad de la cadena, dificultando la cristalización.
+     - Una distribución uniforme del peso molecular también tiende a favorecer la cristalinidad en comparación con una distribución amplia.
+  
+  En resumen, la cristalinidad en los polímeros es el resultado de un delicado equilibrio entre varios factores estructurales y de composición. La comprensión de estos factores es esencial para diseñar polímeros con propiedades específicas para aplicaciones deseadas.
 
 2. **Comportamiento mecánico de polímeros específicos:**
    - a. **Poliisobutileno:** Es blando y débil debido a su baja cristalinidad y alta flexibilidad molecular. La flexibilidad se debe a las cadenas de isobutileno que permiten fácil movimiento, resultando en una baja resistencia mecánica y dureza.
